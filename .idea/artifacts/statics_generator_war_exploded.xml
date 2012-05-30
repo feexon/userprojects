@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="statics-generator:war exploded">
+    <output-path>$PROJECT_DIR$/statics-generator/target/statics-generator</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="statics-generator/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="statics-generator" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="static-html-generator:war">
+    <output-path>$PROJECT_DIR$/static-html-generator/target</output-path>
+    <root id="archive" name="static-html-generator-1.0.war">
+      <element id="artifact" artifact-name="static-html-generator:war exploded" />
+    </root>
+  </artifact>
+</component>

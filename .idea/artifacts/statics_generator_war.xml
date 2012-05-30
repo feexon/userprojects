@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="statics-generator:war">
+    <output-path>$PROJECT_DIR$/statics-generator/target</output-path>
+    <root id="archive" name="statics-generator.war">
+      <element id="artifact" artifact-name="statics-generator:war exploded" />
+    </root>
+  </artifact>
+</component>
